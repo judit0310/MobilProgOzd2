@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OzdMobilProg2</string>
+    <string name="nev">Name</string>
+    <string name="kepkeszitese">Capture Image</string>
+    <string name="felhasznalonev">Username</string>
+    <string name="csaladnev">Last Name</string>
+    <string name="keresztnev">Fisrt Name</string>
+    <string name="hozzaadas">Add</string>
+    <string name="udvtoast">Welcome back, </string>
+    <string name="lementett">Saved data</string>
+</resources>

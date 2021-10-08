@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MobilProgOzd2</string>
+    <string name="nev">Név</string>
+    <string name="kepkeszitese">Kamerakép készítése</string>
+    <string name="felhasznalonev">Felhasználónév</string>
+    <string name="csaladnev">Családnév</string>
+    <string name="keresztnev">Keresztnév</string>
+    <string name="hozzaadas">Hozzáadás</string>
+    <string name="udvtoast">Üdvözöllek, </string>
+    <string name="lementett">Lementett adatok</string>
+</resources>
